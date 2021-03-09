@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MonstersGoBoom is a hobby retro studio
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Mostly developing games and tools for retro ( 8-bit ) platforms. 
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
