@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Testing
+title: Hello .....
 published: true
 ---
-## this
+I'll do something here one day.
 
-![levelpacker3.gif]({{site.baseurl}}/_posts/levelpacker3.gif)
-[testing](http://monstersgoboom.com/)
-![levelpacker3.gif](http://MonstersGoBoom.github.io/blob/master/_posts/levelpacker3.gif)
